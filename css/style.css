@@ -1,3 +1,6 @@
+@import url(normalize.min.css);
+@import url(reset.css);
+
 @font-face {
   font-family: "Helvetica Neue";
   src: url("../fonts/helveticaneueroman-webfont.woff2") format("woff2"), url("../fonts/helveticaneueroman-webfont.woff") format("woff");

@@ -1,5 +1,25 @@
 # proyectoPerfecto
 
+###### _Copyright 2024 - Andreu Julia
+## Archivos del proyecto web
+
+Descripción corta del proyecto y su propósito.
+
+## Tabla de Contenidos
+
+1. [Instalación](#instalación)
+2. [Uso](#uso)
+3. [Contribución](#contribución)
+4. [Licencia](#licencia)
+
+## Instalación
+
+Proporciona aquí las instrucciones para instalar el proyecto y todas las dependencias necesarias. Por ejemplo:
+
+```bash
+npm install mi-proyecto
+
+
 >
 > Metodología de carpetas en FrontEnd
 
@@ -11,8 +31,7 @@ Comentarios introductorios
 
 ---
 
-###### _Copyright 2024 - Andreu Julia
-## Archivos del proyecto web
+
 
 Explicación de la importancia de cada semiestructura de archivos:
 
@@ -63,3 +82,6 @@ Este archivo contiene un mapa del sitio web, que ayuda a los motores de búsqued
 #### assets
 
 Es la carpeta donde se guardan los archivos originales del proyecto o archivos complementarios al proyecto.
+
+
+
